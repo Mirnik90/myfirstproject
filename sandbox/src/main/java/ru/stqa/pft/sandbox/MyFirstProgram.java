@@ -2,9 +2,9 @@ package ru.stqa.pft.sandbox;
 
 public class MyFirstProgram {
 
- public static void main(String[] args){
-System.out.println("Hello World!");
- }
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
 }
 
 //# Файл с исходным кодом
@@ -12,4 +12,4 @@ System.out.println("Hello World!");
 //# Начало и конец функции обозначаются фигурными скобками
 //# Программа состоит из класса внутри которого есть функция MAIN и она содержит исполняемый код 
 //# Компиляция программы - трансляция исходного кода в байт код, который будет запускаться с помощью интерпретатора байт кода 
-//#
+//# Названия классов начинаются с большой буквы
